@@ -1,8 +1,3 @@
-
-Kayla Cuthbert
-11:52 AM (0 minutes ago)
-to me, cuthbert091
-
 library(tidyverse)
 library(ggplot2)
 library(scales)
@@ -14,6 +9,14 @@ ff_background <- "#F7F4EE"
 ff_accent     <- "#C4673A"
 ff_text       <- "#2E2E2E"
 ff_muted      <- "#A8A89E"
+
+# Golden Canopy palette 
+gc_primary <- "#2B3B1A" 
+gc_secondary <- "#5A7A3A" 
+gc_background <- "#F5EDD9"
+gc_accent <- "#C4892A" 
+gc_text <- "#241D12"
+gc_muted <- "#A89880" 
 
 # Eden ggplot2 theme
 theme_eden <- function(base_size = 11) {
