@@ -7,7 +7,7 @@ Each folder contains the R code, data notes, and figures for one published modul
 Written prices are published on Substack. Full project index on Notion. 
 
 **Substack:** [https://kaylacuthbert.substack.com/]
-**Notion:** [https://app.notion.com/p/kayla-cuthbert-the-eden-project/The-Eden-Project-4c19daa0d5bd42148f3419b621e044a4?source=copy_link]
+**Notion:** [https://eden-economics.notion.site/The-Eden-Project-Economics-the-Built-Environment-38fa56694f058022a3faeca7d6eb6ff1]
 
 |  # | Title | Type | Tools | Published | 
 | ---| ----- | -----| ------| ----------| 
