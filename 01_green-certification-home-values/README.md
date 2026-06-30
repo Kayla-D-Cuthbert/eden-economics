@@ -5,8 +5,8 @@ Do energey-efficient and green-certified homes cost less to operate
 and sell at a premium - and it that premium growing? 
 
 ## Data Sources 
-- EIA RECS 2020:
-- ENERGY STAR
+- EIA RECS 2020: eia.gov/consumption/residential/data/2020
+- ENERGY STAR Certified Homes Market Data: energystar.gov 
 
 ## Methods 
 OLS regression and descriptive analysis of energy expenditure by housing vintage;
@@ -22,5 +22,5 @@ TBD - in progress.
 4. Run top to bottom
 
 ## Links
-- Substack:
-- Notion: 
+- Substack: [link] 
+- Notion: [link] 
